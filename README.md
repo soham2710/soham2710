@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: End to End Projects
 - 🌱 I’m currently learning: Deep learning
-- 👯 I’m looking to collaborate on: COmputer vision, AI, Big data projects
+- 👯 I’m looking to collaborate on: Computer vision, AI, Big data projects
 - 🤔 I’m looking for help with : New projects
 - 💬 Ask me about: My projects
 - 📫 How to reach me: sohamnsharma@gmail.com, +91-9730084626
