@@ -7,7 +7,7 @@ Machine learning and Tensorflow Developer
 I'm Soham Sharma, an IT professional with over 7 years of experience, and I've developed a keen interest in product management, AI, and machine learning. My educational background is in Aircraft Maintenance Engineering, but I'm currently pursuing a PG Diploma in Applied Statistics to delve deeper into the world of data science. While working in the IT sector, I've been involved in some basic machine learning projects, and I'm constantly striving to improve my skills day by day. My proficiency includes Python, HTML, CSS, Java, Django, Flask, SQL, Tableau, and PowerBI, which provides me with a strong technical foundation. Driven by my passion for continuous learning, I'm excited to explore the convergence of data science and innovative technology. I believe my diverse skill set and knowledge will enable me to contribute to the development of cutting-edge AI-driven products and solutions. I'm always eager to embrace new challenges in the AI landscape and look forward to making a meaningful impact in this field.
 
 *   🌍  I'm based in Indore
-*   ✉️  You can contact me at [sohamnsharma@gmail.com](mailto:sohamnsharma@gmail.com)
+*   ✉️  You can contact me at [sohamnsharma@gmail.com](mailto:sohamnsharma@gmail.com), [soham@botmartz.com](mailto:soham@botmartz.com)
 *   🧠  I'm learning LLMs, GANs, Conversational AI and Computer Vision
 
 ### Skills 
