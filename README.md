@@ -142,9 +142,6 @@ class SohamSharma:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soham2710&show_icons=true&count_private=true&title_color=06b6d4&text_color=ffffff&icon_color=a78bfa&bg_color=0d1117&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham2710&langs_count=8&title_color=06b6d4&text_color=ffffff&icon_color=a78bfa&bg_color=0d1117&hide_border=true&border_radius=12&layout=compact"/>
-
 <br/>
 
 <img width="68%" src="https://streak-stats.demolab.com/?user=soham2710&theme=dark&hide_border=true&background=0d1117&ring=06b6d4&fire=a78bfa&currStreakLabel=06b6d4&border_radius=12"/>
